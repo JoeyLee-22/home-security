@@ -14,7 +14,7 @@ text_color = (255, 255, 255)
 box_color = (27, 181, 16)
 thickness = 1
 
-model = YOLO("packageFaceDetector/best.pt")
+model = YOLO("packageFaceDetector/detectBothV1.pt")
 
 while True:
     success, img = cap.read()
