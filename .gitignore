@@ -160,3 +160,6 @@ cython_debug/
 #.idea/
 
 key.txt
+package&human-detection-3
+photos
+output.avi
